@@ -1,0 +1,77 @@
+body{
+  background:#fff;
+  color:#000;
+}
+
+.feed-icon,
+.views-hide,
+.post-links{
+  display:none;
+  }
+
+#page {
+  width:100%;
+  }
+
+.header-wrapper{
+  padding:.5em;
+  text-align:center;
+  }
+
+#main img {
+  float:left;
+  margin:0 1em 0 0;
+  }
+
+.terms ul li {
+  display: inline-block;
+  padding-right: 5px;
+}
+
+.twitter-button,
+.facebook-button,
+#comment-form,
+#comments {
+  display:none;
+}
+
+.view,
+.views-row {
+  clear:both;
+  overflow:hidden;
+  padding:.5em 0;
+  }
+
+.footer-wrapper{
+  font-size:.8em;
+  padding-top:2em;
+  text-align:center;
+  }
+.footer-wrapper p{
+  margin:0;
+}
+h1,h2 {
+  margin-bottom:.1em;
+  }
+
+h1,h2,h3 {
+  font-size:99%;
+  }
+/**************************************
+**** SECTIONS STYLES ******************
+**************************************/
+.field-field-mevent-date,
+.field-field-mevent-location {
+  display: inline-block;
+}
+.field-field-mevent-location {
+  margin-left: 20px;
+}
+.field-field-mevent-date  div,
+.field-field-mevent-location  div {
+  display: inline-block;
+}
+.field-field-mevent-date .field-label-inline-first,
+.field-field-mevent-location .field-label-inline-first {
+  font-weight: bold;
+}
