@@ -382,7 +382,6 @@ h5 a:hover, h6 a:hover {
 #header-wrapper #header img.logo-img img {
   margin: 0;
   padding: 0;
-  width: 200px;
 }
 /* line 26, ../sass/_header.scss */
 #header-wrapper #header .site-name {
